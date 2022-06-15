@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   |#  |Repository|Technologies | Use|
 |---|---       |---          |--- |
 |1|1. https://github.com/jdbirla/JD_Git_Gyan  2.https://github.com/jdbirla/JD_Readme_Guide 3.https://github.com/jdbirla/Git_Cheat_Sheet | GIT and GITHUB | Learn Git and Github in detail with all commands and cheatsheet|
-|2|https://github.com/jdbirla/Angular_Ecommerce_Project https://github.com/darbyluv2code?tab=repositories | GIT and GITHUB | This is E-commerce project based on angular as frontend and Rest WS as backend.|
+|2|https://github.com/jdbirla/Angular_Ecommerce_Project https://github.com/darbyluv2code?tab=repositories | Angular and REST API | This is E-commerce project based on angular as frontend and Rest WS as backend.|
 |3|https://github.com/jdbirla/Durga_soft_notes  https://github.com/jdbirla/Notesameer | Notes for all technologies | This repo is contain all the notes from durgasoft|
 |4|https://github.com/jdbirla/JD-courses-repo | Courses portal | All the Courses portals |
 |5|https://github.com/jdbirla/JD_AWS_Certification_Easy  | AWS Certification | This is AWS certification crack guide|
