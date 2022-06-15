@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hello, I'm <a href="https://github.com/jdbirla">Jitendra Birla</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px"></h1>
+<h1>Hello, I'm <a href="https://github.com/jdbirla">Jitendra Birla(jdbirla)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbirla&label=Views&color=blue&style=for-the-badge" alt="jdbirla" /> </p>
 
