@@ -31,11 +31,17 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=plastic&logo=google-chrome)](https://bharatkammakatla.com/)
 -->
 
-### Languages and Tools:
+### Technologies and Tools:
 
-<p align="left"><img height="40" width="40" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png" />&nbsp;&nbsp;&nbsp;
+<p align="left"><img height="40" width="40" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png" />
+  
 
+### Certifications : 
+  
+<p align="left"><img height="100" width="100" alt="java" src="https://user-images.githubusercontent.com/69948118/173725508-5f95161d-2e57-4660-8c78-795b25098297.png" />&nbsp;&nbsp;&nbsp;
+<img height="100" width="100" alt="java" src="https://user-images.githubusercontent.com/69948118/173725087-2ed865d3-a9f7-48d8-8ad9-f2f5ba39ff6f.png"/>
 
+  
 ### Github Stats:
 
 <a href="https://github.com/jdbirla">
