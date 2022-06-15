@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - :email: jitendra.birla21@gmail.com
 
 <!---
-[![Linkedin: BharatKammakatla](https://img.shields.io/badge/-bharatkammakatla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharatkammakatla/)](https://www.linkedin.com/in/bharatkammakatla/)&nbsp;&nbsp;&nbsp;
-[![website](https://img.shields.io/badge/PortfolioWebsite-bharatkammakatla.com-2648ff?style=plastic&logo=google-chrome)](https://bharatkammakatla.com/)
+[![Linkedin: jdbirla](https://img.shields.io/badge/-jdbirla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdbirla/)](https://www.linkedin.com/in/jdbirla/)&nbsp;&nbsp;&nbsp;
+[![website](https://img.shields.io/badge/PortfolioWebsite-jdbirla.com-2648ff?style=plastic&logo=google-chrome)](https://jdbirla.com/)
 -->
 
 ### Technologies and Tools:
