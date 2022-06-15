@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdbirla&label=Views&color=blue&style=for-the-badge" alt="jdbirla" /> </p>
 
-- 🔭 I’m currently working on Java Developer.
+- 🔭 I’m currently working as Java Developer.
 - 🌱 I’m currently learning AWS and Kubernetes.
 - 👯 I’m looking to collaborate on AWS , Microservices and Kubernetes projects.
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/jdbirla), [GMail](mailto:jitendra.birla21@gmail.com)
