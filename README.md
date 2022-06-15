@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="left"><img height="40" width="50" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png" />
   &nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="Spring" src="https://user-images.githubusercontent.com/69948118/173736694-4308d821-7900-44d4-ab02-044bcb60c9b9.png" />&nbsp;&nbsp;&nbsp;
+<img height="40" width="100" alt="Spring" src="https://user-images.githubusercontent.com/69948118/173736694-4308d821-7900-44d4-ab02-044bcb60c9b9.png" />&nbsp;&nbsp;&nbsp;
 <img height="40" width="100" alt="Spring Boot" src="https://user-images.githubusercontent.com/69948118/173737383-55d1a07c-ceea-4427-a78f-4f781b9bf1e7.png" />&nbsp;&nbsp;&nbsp;
 <img height="40" width="50" alt="AWS" src="https://user-images.githubusercontent.com/69948118/173737384-c9745d1d-bcbe-4394-b64f-efb16b3264ae.png" />
   &nbsp;&nbsp;&nbsp;
