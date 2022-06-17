@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AWS , Microservices and Kubernetes projects.
 - 📫 How to reach me: [Linked In](https://linkedin.com/in/jdbirla), [GMail](mailto:jitendra.birla21@gmail.com)
 - :email: jitendra.birla21@gmail.com
+- :pager: https://jdbirla.github.io/
 
 <!---
 [![Linkedin: jdbirla](https://img.shields.io/badge/-jdbirla-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdbirla/)](https://www.linkedin.com/in/jdbirla/)&nbsp;&nbsp;&nbsp;
