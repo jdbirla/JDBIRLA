@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 |2|https://github.com/jdbirla/Angular_Ecommerce_Project https://github.com/darbyluv2code?tab=repositories | Angular and REST API | This is E-commerce project based on angular as frontend and Rest WS as backend.|
 |3|https://github.com/jdbirla/Durga_soft_notes  https://github.com/jdbirla/Notesameer | Notes for all technologies | This repo is contain all the notes from durgasoft|
 |4|https://github.com/jdbirla/JD-courses-repo | Courses portal | All the Courses portals |
-|5|https://github.com/jdbirla/JD_AWS_Certification_Easy  | AWS Certification | This is AWS certification crack guide|
+|5|https://github.com/jdbirla/JD_AWS_World  | AWS World | This is AWS repo|
 |6|https://github.com/jdbirla/JD_Agile_Scrum_Foundation | Agile Scrum| This repository has scrum foundation certification guide|
 |7|https://github.com/jdbirla/JD_Best_Short_Cuts  | Shortcuts| This repository will contains all kind of shortcuts , like Windows , browser etc...|
 |8|https://github.com/jdbirla/JD_DEVOPS https://github.com/jdbirla/devops-exercises  | DevOps | This repository has DevOps high Level inforamtion and all the tools which are used in DevOps Process|
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 |11|https://github.com/jdbirla/JD_IMP_SQL  | Oralce and SQL | This repository will have knowledge about the important SQL commands , Oracle key features and daily use scripts.|
 |12|https://github.com/jdbirla/JD_IMP_browser_extensions | Browser | This repository have information about the great browser which can use for work easy.|
 |13|https://github.com/jdbirla/JD_IP_All_Together | Interview Preparation | This repository has all the link at one place for interview preparation|
-|14|https://github.com/jdbirla/JD_JAVA_Learning https://github.com/jdbirla/java-streams https://github.com/jdbirla/LambdaExpression| Java  | All Java concept at one place like core java, java 8,9,10,11,12,13 , design pattern, concurrency , multithreading and roadmaps|
-|15|https://github.com/jdbirla/JD_Jenkins https://github.com/jdbirla/Pipeline_Script| Jenkins| Jenkins integration for Java project and maven and github |
+|14|https://github.com/jdbirla/JD_JAVA_Learning https://github.com/jdbirla/java-streams https://github.com/jdbirla/LambdaExpression https://github.com/jdbirla/buggyapp| Java  | All Java concept at one place like core java, java 8,9,10,11,12,13 , design pattern, concurrency , multithreading and roadmaps|
+|15|https://github.com/jdbirla/JD_Jenkins https://github.com/jdbirla/Pipeline_Script https://github.com/jdbirla/jenkins-goodies| Jenkins| Jenkins integration for Java project and maven and github |
 |16|https://github.com/jdbirla/Jd-SOAP-web-service  | SOAP using Spring boot | SOAP implementation using Spring Boot|
 |17|https://github.com/jdbirla/jd-docker-crash-course https://github.com/jdbirla/docker-crash-course  | Docker | Docker detailed information for all type of java project like web, API, database , microservices , react|
 |18|https://github.com/jdbirla/jd-kubernetes-crash-course https://github.com/jdbirla/kubernetes-crash-course| Kubernetes | Kubernetes implementation for all type of Java project Spring Boot Web , API and Microservice using Google Cloud and AWS EKS|
@@ -87,12 +87,19 @@ Here are some ideas to get you started:
 |21|https://github.com/jdbirla/JD_MyBooks  https://github.com/jdbirla/MyBooks| Books| All technologies books at one place|
 |22|https://github.com/jdbirla/JD_Reference_Repo | External Repository| Useful repositories|
 |23|https://github.com/jdbirla/JD_Spring_Boot_Master | Spring Boot| Spring Boot in detail with all type of Projects Web , API ,Junit and Mockito|
-|24|https://github.com/jdbirla/JD_Spring_Microservices https://github.com/jdbirla/spring-boot-microservices-workshop-Commit1 https://github.com/jdbirla/spring-microservices https://github.com/jdbirla/spring-microservices-v2| Microservices|Learn A to Z about microservices Microservices , Spring Cloud ,Service Registry using Eureka Naming Server, Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon),API Gateway with Spring Cloud Gateway (instead of Zuul),Circuit Breaker with Resilience4j (instead of Hystrix),Distributed Tracing with Zipkin,Asynchronous Communication using Rabbit MQ|
-|25|https://github.com/jdbirla/JD_T-T_Dictionary| JD Tools and Technologies| This repository will contains all tools (software) and Techologies for development|
-|26|https://github.com/jdbirla/JD_spring-master-class | Spring| Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey|
-|27|https://github.com/jdbirla/Spring_Boot_Hibernate | Spring , SpringBoot and Hibernate| This project has Spring , spring boot and hibernate , Thymeleaf ,actuator , AOP.|
+|24|https://github.com/jdbirla/JD_Spring_Microservices https://github.com/jdbirla/spring-boot-microservices-workshop-Commit1 https://github.com/jdbirla/spring-microservices https://github.com/jdbirla/spring-microservices-v2  https://github.com/jdbirla/internet-banking-concept-microservices https://github.com/jdbirla/Trampoline | Microservices|Learn A to Z about microservices Microservices , Spring Cloud ,Service Registry using Eureka Naming Server, Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon),API Gateway with Spring Cloud Gateway (instead of Zuul),Circuit Breaker with Resilience4j (instead of Hystrix),Distributed Tracing with Zipkin,Asynchronous Communication using Rabbit MQ|
+|25|https://github.com/jdbirla/JD_T-T_Dictionary https://github.com/jdbirla/theBestOfJava| JD Tools and Technologies| This repository will contains all tools (software) and Techologies for development|
+|26|https://github.com/jdbirla/JD_spring-master-class https://github.com/jdbirla/awesome-spring https://github.com/jdbirla/spring-batch-examples | Spring| Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey|
+|27|https://github.com/jdbirla/Spring_Boot_Hibernate https://github.com/jdbirla/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL| Spring , SpringBoot and Hibernate| This project has Spring , spring boot and hibernate , Thymeleaf ,actuator , AOP.|
 |28|https://github.com/jdbirla/jd_unit_testing | Junit and Mockito| Junit and Mockito implementation with Genral , Spring and SpringBoot , TestNG and TDD and BDD|
 |29|https://github.com/jdbirla/learn https://github.com/jdbirla/learning-paths-cloud-and-devops | Learn| Learning Paths|
-
-
+|30|https://github.com/jdbirla/JD_DSA_Master https://github.com/jdbirla/data-structures-and-algorithms | Data Structures and Algo | Learn DSA|
+|31|https://github.com/jdbirla/JD_Azure_World | Azure World| This repo will have a to z about Azure|
+|32|https://github.com/jdbirla/JD_Hibernate_Master | Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
+|33|https://github.com/jdbirla/JD_Troubleshooting_Guide | TroubleShoting guide| This repo will have faced issue and solutions|
+|34|https://github.com/jdbirla/Jrebel | Jrebel| This repo will have knowledge shared by jrebel https://www.jrebel.com/blog|
+|35|*** | **| **|
+|36|*** | **| **|
+|36|*** | **| **|
+|37|*** | **| **|
 
