@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 |10|https://github.com/jdbirla/JD_IMP_Java | Java IMP | This repository will contain some important topics and learning realted to Java Projects|
 |11|https://github.com/jdbirla/JD_IMP_SQL  | Oralce and SQL | This repository will have knowledge about the important SQL commands , Oracle key features and daily use scripts.|
 |12|https://github.com/jdbirla/JD_IMP_browser_extensions | Browser | This repository have information about the great browser which can use for work easy.|
-|13|https://github.com/jdbirla/JD_IP_All_Together | Interview Preparation | This repository has all the link at one place for interview preparation|
-|14|https://github.com/jdbirla/JD_JAVA_Learning https://github.com/jdbirla/java-streams https://github.com/jdbirla/LambdaExpression https://github.com/jdbirla/buggyapp| Java  | All Java concept at one place like core java, java 8,9,10,11,12,13 , design pattern, concurrency , multithreading and roadmaps|
+|13|https://github.com/jdbirla/JD_IP_All_Together https://github.com/jdbirla/jd-spring-springboot-interview-guide| Interview Preparation | This repository has all the link at one place for interview preparation|
+|14|https://github.com/jdbirla/JD_JAVA_Learning https://github.com/jdbirla/java-streams https://github.com/jdbirla/LambdaExpression https://github.com/jdbirla/buggyapp https://github.com/jdbirla/JD_Reactive_Programming| Java  | All Java concept at one place like core java, java 8,9,10,11,12,13 , design pattern, concurrency , multithreading and roadmaps|
 |15|https://github.com/jdbirla/JD_Jenkins https://github.com/jdbirla/Pipeline_Script https://github.com/jdbirla/jenkins-goodies| Jenkins| Jenkins integration for Java project and maven and github |
 |16|https://github.com/jdbirla/Jd-SOAP-web-service  | SOAP using Spring boot | SOAP implementation using Spring Boot|
 |17|https://github.com/jdbirla/jd-docker-crash-course https://github.com/jdbirla/docker-crash-course  | Docker | Docker detailed information for all type of java project like web, API, database , microservices , react|
@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 |23|https://github.com/jdbirla/JD_Spring_Boot_Master | Spring Boot| Spring Boot in detail with all type of Projects Web , API ,Junit and Mockito|
 |24|https://github.com/jdbirla/JD_Spring_Microservices https://github.com/jdbirla/spring-boot-microservices-workshop-Commit1 https://github.com/jdbirla/spring-microservices https://github.com/jdbirla/spring-microservices-v2  https://github.com/jdbirla/internet-banking-concept-microservices https://github.com/jdbirla/Trampoline | Microservices|Learn A to Z about microservices Microservices , Spring Cloud ,Service Registry using Eureka Naming Server, Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon),API Gateway with Spring Cloud Gateway (instead of Zuul),Circuit Breaker with Resilience4j (instead of Hystrix),Distributed Tracing with Zipkin,Asynchronous Communication using Rabbit MQ|
 |25|https://github.com/jdbirla/JD_T-T_Dictionary https://github.com/jdbirla/theBestOfJava| JD Tools and Technologies| This repository will contains all tools (software) and Techologies for development|
-|26|https://github.com/jdbirla/JD_spring-master-class https://github.com/jdbirla/awesome-spring https://github.com/jdbirla/spring-batch-examples | Spring| Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey|
+|26|https://github.com/jdbirla/JD_spring-master-class https://github.com/jdbirla/awesome-spring https://github.com/jdbirla/spring-batch-examples https://github.com/jdbirla/awesome-spring| Spring| Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey|
 |27|https://github.com/jdbirla/Spring_Boot_Hibernate https://github.com/jdbirla/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL| Spring , SpringBoot and Hibernate| This project has Spring , spring boot and hibernate , Thymeleaf ,actuator , AOP.|
 |28|https://github.com/jdbirla/jd_unit_testing | Junit and Mockito| Junit and Mockito implementation with Genral , Spring and SpringBoot , TestNG and TDD and BDD|
 |29|https://github.com/jdbirla/learn https://github.com/jdbirla/learning-paths-cloud-and-devops | Learn| Learning Paths|
@@ -98,8 +98,16 @@ Here are some ideas to get you started:
 |32|https://github.com/jdbirla/JD_Hibernate_Master | Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
 |33|https://github.com/jdbirla/JD_Troubleshooting_Guide | TroubleShoting guide| This repo will have faced issue and solutions|
 |34|https://github.com/jdbirla/Jrebel | Jrebel| This repo will have knowledge shared by jrebel https://www.jrebel.com/blog|
-|35|*** | **| **|
-|36|*** | **| **|
-|36|*** | **| **|
-|37|*** | **| **|
+|35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
+|36|https://github.com/jdbirla/jdcoderesources | html , css| Jd code resources
+|36|https://github.com/jdbirla/JDIdeas | all techs| JD ideas|
+|37|https://github.com/jdbirla/JD_RoadMaps | roadmap| roadmap|
+|38|** | **| **|
+|39|** | **| **|
+|40|** | **| **|
+|41|** | **| **|
+|42|** | **| **|
+|43|** | **| **|
+|44|** | **| **|
 
+  
