@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 |29|https://github.com/jdbirla/learn https://github.com/jdbirla/learning-paths-cloud-and-devops | Learn| Learning Paths|
 |30|https://github.com/jdbirla/JD_DSA_Master https://github.com/jdbirla/data-structures-and-algorithms | Data Structures and Algo | Learn DSA|
 |31|https://github.com/jdbirla/JD_Azure_World | Azure World| This repo will have a to z about Azure|
-|32|https://github.com/jdbirla/JD_Hibernate_Master | Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
+|32|https://github.com/jdbirla/JD_Spring_Data_JPA_Hibernate_Master | Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
 |33|https://github.com/jdbirla/JD_Troubleshooting_Guide | TroubleShoting guide| This repo will have faced issue and solutions|
 |34|https://github.com/jdbirla/Jrebel | Jrebel| This repo will have knowledge shared by jrebel https://www.jrebel.com/blog|
 |35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
