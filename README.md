@@ -102,8 +102,8 @@ Here are some ideas to get you started:
 |36|https://github.com/jdbirla/jdcoderesources | html , css| Jd code resources
 |36|https://github.com/jdbirla/JDIdeas | all techs| JD ideas|
 |37|https://github.com/jdbirla/JD_RoadMaps | roadmap| roadmap|
-|38|** | **| **|
-|39|** | **| **|
+|38|https://github.com/jdbirla/JD_Rest_API_Master | World of Rest API| Rest API with all industry standard in spring boot|
+|39|https://github.com/public-apis/public-apis | All Public Free APIs| Public APIs Free avaialble to use
 |40|** | **| **|
 |41|** | **| **|
 |42|** | **| **|
