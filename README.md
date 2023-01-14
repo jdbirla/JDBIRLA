@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...![download (9)](https://user-images.githubusercontent.com/69948118/212454661-9f6361a5-5683-4a7d-a07b-6e82b70f813e.png)
+
 - ⚡ Fun fact: ...
 -->
 
@@ -34,16 +35,34 @@ Here are some ideas to get you started:
 
 ### Technologies and Tools:
 
-<p align="left"><img height="40" width="50" alt="java" src="https://user-images.githubusercontent.com/28840761/89373844-54cd0580-d71c-11ea-8525-e618ed8e029d.png" />
+#### Backend :
+<p align="left">
+  <img height="50" width="50" alt="java" src="https://user-images.githubusercontent.com/69948118/212451976-7ee7a27b-b627-4365-b5a6-193c55468396.png" />
   &nbsp;&nbsp;&nbsp;
-<img height="40" width="100" alt="Spring" src="https://user-images.githubusercontent.com/69948118/173736694-4308d821-7900-44d4-ab02-044bcb60c9b9.png" />&nbsp;&nbsp;&nbsp;
-<img height="40" width="100" alt="Spring Boot" src="https://user-images.githubusercontent.com/69948118/173737383-55d1a07c-ceea-4427-a78f-4f781b9bf1e7.png" />&nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="AWS" src="https://user-images.githubusercontent.com/69948118/173737384-c9745d1d-bcbe-4394-b64f-efb16b3264ae.png" />
+<img height="50" width="50" alt="Spring" src="https://user-images.githubusercontent.com/69948118/212456713-dbc9b721-6607-49cf-91ff-137fc2492c80.png" />&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="Spring Boot" src="https://user-images.githubusercontent.com/69948118/212456766-93d29366-424e-4bbf-ad9e-21db09cb3a3d.jpg" />&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="RestAPI" src="https://user-images.githubusercontent.com/69948118/173737380-5f1ca353-9419-49f4-b0c1-8abf4a90d6ae.png" />&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="OracleDB" src="https://user-images.githubusercontent.com/69948118/173737378-93d9a576-5d05-42a4-970e-730de68aae6f.png" />&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="Kubernetes" src="https://user-images.githubusercontent.com/69948118/173737374-65405dab-01bb-4ec4-bb28-e3ce00eeab0b.png" />&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="docker" src="https://user-images.githubusercontent.com/69948118/173737373-5da892ce-7f38-4836-a10b-b6aece579f31.png" />
+
+#### Frontend :
+<p align="left"><img height="50" width="50" alt="html" src="https://user-images.githubusercontent.com/69948118/212450728-0a4d529f-f57e-4292-ace6-727ac5493bf4.png" >
   &nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="RestAPI" src="https://user-images.githubusercontent.com/69948118/173737380-5f1ca353-9419-49f4-b0c1-8abf4a90d6ae.png" />&nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="OracleDB" src="https://user-images.githubusercontent.com/69948118/173737378-93d9a576-5d05-42a4-970e-730de68aae6f.png" />&nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="Kubernetes" src="https://user-images.githubusercontent.com/69948118/173737374-65405dab-01bb-4ec4-bb28-e3ce00eeab0b.png" />&nbsp;&nbsp;&nbsp;
-<img height="40" width="50" alt="docker" src="https://user-images.githubusercontent.com/69948118/173737373-5da892ce-7f38-4836-a10b-b6aece579f31.png" />
+<img height="50" width="50" alt="css" src="https://user-images.githubusercontent.com/69948118/212450795-cd93019b-7e5a-40fa-8c70-f060478fc84e.png"/>
+  &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="js" src="https://user-images.githubusercontent.com/69948118/212450849-69a8c2b6-9fee-4fcd-b2b2-3318266c53ec.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="ts" src="https://user-images.githubusercontent.com/69948118/212450877-729943d1-d6ba-4212-bda7-3bd13cf55a8f.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="react" src="https://user-images.githubusercontent.com/69948118/212450895-b49f1572-6d0a-4c11-98e1-7377c95f97a0.png"/>
+  &nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="bootstrap" src="https://user-images.githubusercontent.com/69948118/212451219-58758809-9ce8-4707-9dad-ddf7a385dab9.jpg"/>
+  &nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="redux" src="https://user-images.githubusercontent.com/69948118/212451498-6ae1fe4f-a981-4961-ba02-5653024be8bc.png"/>
+  &nbsp;&nbsp;&nbsp;
+
+
 
 ### Certifications : 
   
