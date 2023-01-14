@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 <img height="50" width="50" alt="RestAPI" src="https://user-images.githubusercontent.com/69948118/173737380-5f1ca353-9419-49f4-b0c1-8abf4a90d6ae.png" />&nbsp;&nbsp;&nbsp;
 <img height="50" width="50" alt="OracleDB" src="https://user-images.githubusercontent.com/69948118/173737378-93d9a576-5d05-42a4-970e-730de68aae6f.png" />&nbsp;&nbsp;&nbsp;
 <img height="50" width="50" alt="Kubernetes" src="https://user-images.githubusercontent.com/69948118/173737374-65405dab-01bb-4ec4-bb28-e3ce00eeab0b.png" />&nbsp;&nbsp;&nbsp;
-<img height="50" width="50" alt="docker" src="https://user-images.githubusercontent.com/69948118/173737373-5da892ce-7f38-4836-a10b-b6aece579f31.png" />
+<img height="50" width="50" alt="docker" src="https://user-images.githubusercontent.com/69948118/173737373-5da892ce-7f38-4836-a10b-b6aece579f31.png"/>
+&nbsp;&nbsp;&nbsp;
+<img height="50" width="50" alt="microservices" src="https://user-images.githubusercontent.com/69948118/212456851-386c26d3-6bc5-4d8e-afed-45a03bdc7482.png" />
 
 #### Frontend :
 <p align="left"><img height="50" width="50" alt="html" src="https://user-images.githubusercontent.com/69948118/212450728-0a4d529f-f57e-4292-ace6-727ac5493bf4.png" >
@@ -61,6 +63,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;
 <img height="50" width="50" alt="redux" src="https://user-images.githubusercontent.com/69948118/212451498-6ae1fe4f-a981-4961-ba02-5653024be8bc.png"/>
   &nbsp;&nbsp;&nbsp;
+
 
 
 
