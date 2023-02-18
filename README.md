@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 |2|https://github.com/jdbirla/Angular_Ecommerce_Project https://github.com/darbyluv2code?tab=repositories | Angular and REST API | This is E-commerce project based on angular as frontend and Rest WS as backend.|
 |3|https://github.com/jdbirla/Durga_soft_notes  https://github.com/jdbirla/Notesameer | Notes for all technologies | This repo is contain all the notes from durgasoft|
 |4|https://github.com/jdbirla/JD-courses-repo | Courses portal | All the Courses portals |
-|5|https://github.com/jdbirla/JD_AWS_World  | AWS World | This is AWS repo|
+|5|https://github.com/jdbirla/JD_AWS_World https://github.com/jdbirla/aws-doc-sdk-examples | AWS World | This is AWS repo|
 |6|https://github.com/jdbirla/JD_Agile_Scrum_Foundation | Agile Scrum| This repository has scrum foundation certification guide|
 |7|https://github.com/jdbirla/JD_Best_Short_Cuts  | Shortcuts| This repository will contains all kind of shortcuts , like Windows , browser etc...|
 |8|https://github.com/jdbirla/JD_DEVOPS https://github.com/jdbirla/devops-exercises  | DevOps | This repository has DevOps high Level inforamtion and all the tools which are used in DevOps Process|
@@ -109,25 +109,25 @@ Here are some ideas to get you started:
 |21|https://github.com/jdbirla/JD_MyBooks  https://github.com/jdbirla/MyBooks| Books| All technologies books at one place|
 |22|https://github.com/jdbirla/JD_Reference_Repo | External Repository| Useful repositories|
 |23|https://github.com/jdbirla/JD_Spring_Boot_Master | Spring Boot| Spring Boot in detail with all type of Projects Web , API ,Junit and Mockito|
-|24|https://github.com/jdbirla/JD_Spring_Microservices https://github.com/jdbirla/spring-boot-microservices-workshop-Commit1 https://github.com/jdbirla/spring-microservices https://github.com/jdbirla/spring-microservices-v2  https://github.com/jdbirla/internet-banking-concept-microservices https://github.com/jdbirla/Trampoline https://github.com/jdbirla/internet-banking-concept-microservices| Microservices|Learn A to Z about microservices Microservices , Spring Cloud ,Service Registry using Eureka Naming Server, Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon),API Gateway with Spring Cloud Gateway (instead of Zuul),Circuit Breaker with Resilience4j (instead of Hystrix),Distributed Tracing with Zipkin,Asynchronous Communication using Rabbit MQ|
+|24|https://github.com/jdbirla/JD_Spring_Microservices https://github.com/jdbirla/spring-boot-microservices-workshop-Commit1 https://github.com/jdbirla/spring-microservices https://github.com/jdbirla/spring-microservices-v2  https://github.com/jdbirla/internet-banking-concept-microservices https://github.com/jdbirla/Trampoline https://github.com/jdbirla/internet-banking-concept-microservices https://github.com/jdbirla/jd-microservices-config-server https://github.com/jdbirla/carmarketplace https://github.com/jdbirla/mssc-brewery| Microservices|Learn A to Z about microservices Microservices , Spring Cloud ,Service Registry using Eureka Naming Server, Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon),API Gateway with Spring Cloud Gateway (instead of Zuul),Circuit Breaker with Resilience4j (instead of Hystrix),Distributed Tracing with Zipkin,Asynchronous Communication using Rabbit MQ|
 |25|https://github.com/jdbirla/JD_T-T_Dictionary https://github.com/jdbirla/theBestOfJava| JD Tools and Technologies| This repository will contains all tools (software) and Techologies for development|
 |26|https://github.com/jdbirla/JD_spring-master-class https://github.com/jdbirla/awesome-spring https://github.com/jdbirla/spring-batch-examples https://github.com/jdbirla/awesome-spring| Spring| Learn the magic of Spring Framework. From IOC (Inversion of Control), DI (Dependency Injection), Application Context to the world of Spring Boot, AOP, JDBC and JPA. Get set for an incredible journey|
 |27|https://github.com/jdbirla/Spring_Boot_Hibernate https://github.com/jdbirla/E-Medical-System-Web-Project-Using-Spring-Boot-Security-JPA-Rest-Thymeleaf-HQL https://github.com/jdbirla/Hospital-Management-System-React-and-SpringBoot| Spring , SpringBoot and Hibernate| This project has Spring , spring boot and hibernate , Thymeleaf ,actuator , AOP. , hospipital managment system|
 |28|https://github.com/jdbirla/jd_unit_testing | Junit and Mockito| Junit and Mockito implementation with Genral , Spring and SpringBoot , TestNG and TDD and BDD|
 |29|https://github.com/jdbirla/learn https://github.com/jdbirla/learning-paths-cloud-and-devops | Learn| Learning Paths|
-|30|https://github.com/jdbirla/JD_DSA_Master https://github.com/jdbirla/data-structures-and-algorithms | Data Structures and Algo | Learn DSA|
+|30|https://github.com/jdbirla/JD_DSA_Master https://github.com/jdbirla/data-structures-and-algorithms https://github.com/jdbirla/Hackerrank-Solutions| Data Structures and Algo | Learn DSA|
 |31|https://github.com/jdbirla/JD_Azure_World | Azure World| This repo will have a to z about Azure|
 |32|https://github.com/jdbirla/JD_Spring_Data_JPA_Hibernate_Master | Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
 |33|https://github.com/jdbirla/JD_Troubleshooting_Guide | TroubleShoting guide| This repo will have faced issue and solutions|
 |34|https://github.com/jdbirla/Jrebel | Jrebel| This repo will have knowledge shared by jrebel https://www.jrebel.com/blog|
-|35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
+|35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js https://github.com/jdbirla/reactjs-interview-questions jdbirla/javascript-interview-questions  https://github.com/jdbirla/complete-javascript-course| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
 |36|https://github.com/jdbirla/jdcoderesources | html , css| Jd code resources
 |36|https://github.com/jdbirla/JDIdeas | all techs| JD ideas|
 |37|https://github.com/jdbirla/JD_RoadMaps | roadmap| roadmap|
 |38|https://github.com/jdbirla/JD_Rest_API_Master | World of Rest API| Rest API with all industry standard in spring boot|
 |39|https://github.com/public-apis/public-apis | All Public Free APIs| Public APIs Free avaialble to use
-|40|** | **| **|
-|41|** | **| **|
+|40| https://github.com/jdbirla/JD_IOT_Master | IOT| IOT|
+|41|https://github.com/jdbirla/JD_JIRA_MASTER | JIRA | Jira master
 |42|** | **| **|
 |43|** | **| **|
 |44|** | **| **|
