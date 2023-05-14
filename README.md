@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 <br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories 🙂 !*
-
-   |#  |Repository|Technologies | Use|
+  
+  |#  |Repository|Technologies | Use|
 |---|---       |---          |--- |
 |1|1. https://github.com/jdbirla/JD_Git_Gyan  2.https://github.com/jdbirla/JD_Readme_Guide 3.https://github.com/jdbirla/Git_Cheat_Sheet | GIT and GITHUB | Learn Git and Github in detail with all commands and cheatsheet|
 |2|https://github.com/jdbirla/Angular_Ecommerce_Project https://github.com/darbyluv2code?tab=repositories | Angular and REST API | This is E-commerce project based on angular as frontend and Rest WS as backend.|
@@ -120,20 +120,16 @@ Here are some ideas to get you started:
 |32|https://github.com/jdbirla/JD_Spring_Data_JPA_Hibernate_Master https://github.com/jdbirla/sdjpa-intro| Hibernate , JPA , Spring Data| This repo will have Data Base Connections framework, ORM etc|
 |33|https://github.com/jdbirla/JD_Troubleshooting_Guide | TroubleShoting guide| This repo will have faced issue and solutions|
 |34|https://github.com/jdbirla/Jrebel | Jrebel| This repo will have knowledge shared by jrebel https://www.jrebel.com/blog|
-|35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js https://github.com/jdbirla/reactjs-interview-questions jdbirla/javascript-interview-questions  https://github.com/jdbirla/complete-javascript-course
-https://github.com/jdbirla/reactjs-interview-questions
-| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
+|35|https://github.com/jdbirla/JD_Front_End_Repo https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/html-css-course-by-jonas https://github.com/jdbirla/idiomatic.js https://github.com/jdbirla/reactjs-interview-questions jdbirla/javascript-interview-questions  https://github.com/jdbirla/complete-javascript-course https://github.com/jdbirla/reactjs-interview-questions| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs| FrontEnd , HTML, CSS , BootStrap, JavaScript , Reactjs|
 |36|https://github.com/jdbirla/jdcoderesources | html , css| Jd code resources
-|36|https://github.com/jdbirla/JDIdeas https://github.com/jdbirla/jd-dev-notes
-https://github.com/jdbirla/sivalabs-dev-notes| all techs| JD ideas and Notes|
+|36|https://github.com/jdbirla/JDIdeas https://github.com/jdbirla/jd-dev-notes https://github.com/jdbirla/sivalabs-dev-notes| all techs| JD ideas and Notes|
 |37|https://github.com/jdbirla/JD_RoadMaps | roadmap| roadmap|
 |38|https://github.com/jdbirla/JD_Rest_API_Master https://github.com/jdbirla/springboot-blog-rest-api | World of Rest API| Rest API with all industry standard in spring boot|
 |39|https://github.com/public-apis/public-apis | All Public Free APIs| Public APIs Free avaialble to use
 |40| https://github.com/jdbirla/JD_IOT_Master | IOT| IOT|
 |41|https://github.com/jdbirla/JD_JIRA_MASTER | JIRA | Jira master
 |42|https://github.com/jdbirla/full-stack-professional https://github.com/jdbirla/spring-security-react-ant-design-polls-app https://github.com/jdbirla/Jd-master-spring-spring-boot-react| Fullstack, Spring, React, Java|Fullstack repositories|
-|43|https://github.com/jdbirla/jd-beer-works-bom https://github.com/jdbirla/mssc-example-config-repo https://github.com/jdbirla/jd-mssc-brewery-bom 
-https://github.com/jdbirla/mssc-brewery| Springguru, microservices|Springguru repositories |
+|43|https://github.com/jdbirla/jd-beer-works-bom https://github.com/jdbirla/mssc-example-config-repo https://github.com/jdbirla/jd-mssc-brewery-bom https://github.com/jdbirla/mssc-brewery| Springguru, microservices|Springguru repositories |
 |44|https://github.com/jdbirla/JD_Clean_Code_with_Java | Clean code , Design| clean code , architecture ,refactroring TDD BDD|
 |44|** | **| **|
 |44|** | **| **|
